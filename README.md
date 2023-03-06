@@ -14,10 +14,6 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-ArturGalstyan96)
 
-uses: Platane/snk/svg-only@v2
-
-
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
