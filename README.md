@@ -1,5 +1,5 @@
 ### Hi there I'm Artur
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+I'm+Artur+Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+Im+Artur+Computer+science+student)](https://git.io/typing-svg)
 
 ![HelloWorld](https://user-images.githubusercontent.com/124146015/223111234-03ef258a-90fb-4b77-b586-853153029ea1.svg)
 
