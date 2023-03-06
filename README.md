@@ -1,8 +1,7 @@
 ### Hi there I'm Artur
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 ![HelloWorld](https://user-images.githubusercontent.com/124146015/223111234-03ef258a-90fb-4b77-b586-853153029ea1.svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 ![giphy](https://user-images.githubusercontent.com/124146015/223101813-b7583a7c-384e-4f80-a4b8-526f68a9c4b7.gif)
 
