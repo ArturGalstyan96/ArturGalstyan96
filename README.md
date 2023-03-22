@@ -4,6 +4,9 @@
 
 ![codewars](https://www.codewars.com/users/ArturGalstyan96/badges/large)
 
+<li>
+  <a href="#"><i class="fa fa-twitter"></i></a>
+</li>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturGalstyan96)](https://github.com/ArturGalstyan96/github-readme-stats)
 
