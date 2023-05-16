@@ -8,9 +8,6 @@
 # Code Wars:
 [![codewars](https://www.codewars.com/users/ArturPy88/badges/large)](https://www.codewars.com/users/ArturPy88)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturGalstyan96)](https://github.com/ArturGalstyan96/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturGalstyan96)](https://github.com/ArturGalstyan96/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=your-github-ArturGalstyan96)
 
